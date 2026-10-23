@@ -1,13 +1,8 @@
-# Введение в информационные технологии
+# 01. Введение в информационные технологии
 
-## Описание
+Материалы по занятию «Введение в информационные технологии» в рамках дисциплины «Информационные технологии».
 
-Отчёт по первому занятию дисциплины «Информационные технологии».
+Рассматриваются основные направления информационных технологий, веб-аналитика, сбор и обработка данных, автоматизация рабочих процессов и использование цифровых инструментов.
 
-## Файлы
-
-- [`01-Introduction-To-Information-Technology.md`](01-Introduction-To-Information-Technology.md) — отчёт по занятию.
-
-## Материал преподавателя
-
-[Открыть вводную презентацию](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/01-vvodnaya/index.html#01)
+- **Основной файл:** [01-Introduction-To-Information-Technology.md](01-Introduction-To-Information-Technology.md)
+- **Презентация:** [Введение в информационные технологии](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/01-vvodnaya/index.html#01)
