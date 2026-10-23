@@ -4,5 +4,5 @@
 
 Рассматриваются основные направления информационных технологий, веб-аналитика, сбор и обработка данных, автоматизация рабочих процессов и использование цифровых инструментов.
 
-- **Основной файл:** [01-Introduction-To-Information-Technology.md](01-Introduction-To-Information-Technology.md)
+- **Основной файл:** [Introduction-To-Information-Technology.md](Introduction-To-Information-Technology.md)
 - **Презентация:** [Введение в информационные технологии](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/01-vvodnaya/index.html#01)
