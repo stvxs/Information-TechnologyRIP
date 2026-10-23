@@ -4,5 +4,5 @@
 
 Рассматриваются основные этапы цифровой воронки, передача данных от ссылки до заявки, использование UTM-меток, события веб-аналитики и работа с DevTools. Также описываются причины расхождений данных между системами аналитики, таблицами и CRM.
 
-- **Основной файл:** [02-Cifrovaya-Voronka.md](02-Cifrovaya-Voronka.md)
+- **Основной файл:** [01-Cifrovaya-Voronka.md](01-Cifrovaya-Voronka.md)
 - **Презентация:** [Цифровая воронка](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/02-cifrovaya-voronka/index.html#01)
