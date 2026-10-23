@@ -1,4 +1,4 @@
-# 03 - Google Analytics 4 - GA4 Setup
+# 04 - Google Analytics 4 - GA4 Setup
 
 ## 1. Общая информация
 
